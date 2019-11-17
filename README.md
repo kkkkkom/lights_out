@@ -8,7 +8,7 @@ This repository is a solver for lights out game
 # Install
   1. python3
 # Run
-  1. modify source code in the "__main__" section to create your own initial board
+  1. modify source code in the "\_\_main\_\_" section to create your own initial board
   
   2. python3 lights_off.py
 # Showcase
